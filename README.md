@@ -6,7 +6,7 @@ Anyone can use this
 https://signal.vercel.app/edit I used this to make my music
 
 ## Future Development
-Anyone can have this
+Anyone can have this to expand
 
 ## Created by
 
